@@ -1,6 +1,6 @@
 # cara-ubl-pasang-root-dan-twrp
- *REALME 5 ANDROID 10
-  *TUTORIAL UBL
+ * REALME 5 ANDROID 10
+  * TUTORIAL UBL
 ---pastikan untuk mencadangkan data yg ada di android karna kalau sudah di UBL semua data di andrid akan hilang
 
 ---INSTALL ADBDriverInstaller.exe
